@@ -16,10 +16,6 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JTextArea;
 
-/**
- *
- * @author Lenovo
- */
 public class VentanaPrincipal extends javax.swing.JFrame {
 
     Socket servidor;
